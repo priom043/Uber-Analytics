@@ -146,4 +146,4 @@ PostgreSQL · Power BI Desktop · DAX · Power Query
 
 ---
 
-**Author:** [Sadat Iqbal] · [www.linkedin.com/in/sadat-i-56006010a] · [priomipe43@gmail.com]
+**Author:** Sadat Iqbal · LinkedIn: www.linkedin.com/in/sadat-i-56006010a · mail: priomipe43@gmail.com
