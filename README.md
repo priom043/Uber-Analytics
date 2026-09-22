@@ -40,8 +40,6 @@ End-to-end analysis of **103,024 ride bookings** to find where a ride-hailing pl
 │   └── Customer Behavior.sql
 ├── dashboard/
 │   └── Uber_Project.pbix
-└── screenshots/
-    └── (dashboard page images)
 ```
 
 GitHub lists files alphabetically, so the folder view won't match the order below — that's expected. The order in this README is the actual analytical sequence: build and validate the table first, then decompose failures, then benchmark locations and routes, then segment customers.
