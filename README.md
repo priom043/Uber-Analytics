@@ -15,6 +15,7 @@ End-to-end analysis of **103,024 ride bookings** to find where a ride-hailing pl
 5. How often do customers come back, and does repeat usage change their experience?
 
 ## Dataset
+The data is collected from kaggle (https://www.kaggle.com/datasets/hetmengar/ola-and-uber-ride-booking-and-cancellation-data)
 
 | Attribute | Value |
 |---|---|
