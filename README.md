@@ -111,14 +111,6 @@ The top ten pickup locations for driver cancellations fall within a narrow band 
 
 **91.6% of customers booked only once** in the period; 8.4% booked two or more times. Success rate, cancellation rate, booking value, and rating are effectively identical between one-time and 2–3-booking customers (62.1% vs 62.1% success). The 4–5-booking segment contains only 27 customers, too few to draw conclusions from.
 
-## Recommendations
-
-1. **Report "fully completed rate" alongside booking success rate**, so incomplete rides stop inflating the headline KPI.
-2. **Target driver-side cancellation first.** It is the largest single leak. Use GPS movement after acceptance to flag "driver not moving" and "driver asked to cancel" patterns, and tie repeat offences to incentive eligibility.
-3. **Adjudicate disputed cancellations with objective data**, not self-reported reasons, given that each side attributes most cancellations to the other.
-4. **Treat driver-not-found (9.8%) as a supply positioning problem**, addressed through time- and zone-specific driver incentives rather than blanket bonuses.
-5. **Invest in first-to-second ride conversion.** With over 90% of customers booking once, retention offers more headroom than further acquisition.
-
 ## Power BI dashboard
 
 | Page | Purpose |
@@ -154,4 +146,4 @@ PostgreSQL · Power BI Desktop · DAX · Power Query
 
 ---
 
-**Author:** [Your name] · [LinkedIn] · [Email]
+**Author:** [Sadat Iqbal] · [www.linkedin.com/in/sadat-i-56006010a] · [priomipe43@gmail.com]
