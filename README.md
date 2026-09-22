@@ -135,11 +135,6 @@ The report uses 16 DAX measures (counts, rates, and value measures) rather than 
 - **No driver identifier**, so driver-level retention, repeat cancellation behaviour, and acquisition cohorts cannot be analysed.
 - **Single-table model in Power BI.** The report runs on one flat `Bookings` table with the auto date hierarchy.
 
-## Next steps
-
-- Restructure the Power BI model into a star schema with a dedicated date table and vehicle and location dimensions.
-- Add hour-of-day supply-demand analysis to locate when driver-not-found peaks.
-- Estimate revenue at risk from failed bookings by imputing fare from median fare-per-km by vehicle type.
 
 ## Tools
 
